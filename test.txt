@@ -1,3 +1,5 @@
 test12345
+test12345
 remote
+54321
 pull test
